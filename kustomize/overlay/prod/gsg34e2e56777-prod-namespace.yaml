@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: gsg34e2e56777-prod
+  labels:
+    environment-id: env_c6fe818f-793f-4ab1-9625-892e5f8a3e10
+    project-id: project_abac921d-fd8c-41ff-be62-39e2fa7c76ab
+    project-name: gsg34e2e56777
+    environment-name: prod
+    organization-id: org_99bfadb5-996a-47d5-a5fc-442c14a28627
